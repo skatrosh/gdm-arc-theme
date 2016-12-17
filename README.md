@@ -1,0 +1,1 @@
+# gdm-arc-theme
