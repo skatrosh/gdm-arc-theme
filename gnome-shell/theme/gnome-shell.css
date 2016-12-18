@@ -1972,8 +1972,7 @@ Tab+ - toggle transliteration of result text.; }
 
 #lockDialogGroup {
   background: #2e3436 url(resource:///org/gnome/shell/theme/noise-texture.png);
-  background-size: 1366px 768px;
-  background-repeat: no-repeat; }
+  background-repeat: repeat; }
 
 #screenShieldNotifications StButton#vhandle, #screenShieldNotifications StButton#hhandle {
   background-color: rgba(245, 246, 247, 0.3); }
