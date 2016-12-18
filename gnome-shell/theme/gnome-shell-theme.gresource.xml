@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/shell/theme">
+    <file>activities-active.svg</file>
+    <file>activities.svg</file>
+    <file>bg.svg</file>
+    <file>calendar-arrow-left-hover.svg</file>
+    <file>calendar-arrow-left.svg</file>
+    <file>calendar-arrow-right-hover.svg</file>
+    <file>calendar-arrow-right.svg</file>
+    <file>checkbox-checked-focused.svg</file>
+    <file>checkbox-checked.svg</file>
+    <file>checkbox-unchecked-focused.svg</file>
+    <file>checkbox-unchecked.svg</file>
+    <file>close-active.svg</file>
+    <file>close-hover.svg</file>
+    <file>close.svg</file>
+    <file>corner-ripple-ltr.svg</file>
+    <file>corner-ripple-rtl.svg</file>
+    <file>dash-left.svg</file>
+    <file>dash-placeholder.svg</file>
+    <file>dash-right.svg</file>
+    <file>gnome-shell.css</file>
+    <file>menu-hover.svg</file>
+    <file>menu-separator.svg</file>
+    <file>menu.svg</file>
+    <file>message-active.svg</file>
+    <file>message-close-active.svg</file>
+    <file>message-close-hover.svg</file>
+    <file>message-close.svg</file>
+    <file>message-hover.svg</file>
+    <file>message.svg</file>
+    <file>modal.svg</file>
+    <file>more-results.svg</file>
+    <file>noise-texture.png</file>
+    <file>osd.svg</file>
+    <file>page-indicator-active.svg</file>
+    <file>page-indicator-checked.svg</file>
+    <file>page-indicator-hover.svg</file>
+    <file>page-indicator-inactive.svg</file>
+    <file>panel-overview.svg</file>
+    <file>panel.svg</file>
+    <file>process-working.svg</file>
+    <file>running1.svg</file>
+    <file>running2.svg</file>
+    <file>running3.svg</file>
+    <file>running4.svg</file>
+    <file>submenu-open.svg</file>
+    <file>submenu.svg</file>
+    <file>switch-off-selected.svg</file>
+    <file>switch-off.svg</file>
+    <file>switch-on-selected.svg</file>
+    <file>switch-on.svg</file>
+    <file>ws-switch-arrow-down.png</file>
+    <file>ws-switch-arrow-up.png</file>
+  </gresource>
+</gresources>
