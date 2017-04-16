@@ -1,5 +1,7 @@
 # GDM theme-based [ARC-theme](https://github.com/horst3180/arc-theme)
 
+- This [manual](https://wiki.archlinux.org/index.php/GDM#Log-in_screen_background_image) was used to build this GDM theme
+
 Replace gnome-shell-theme.gresource in /usr/share/gnome-shell/ these file: [gnome-shell-theme.gresource](https://github.com/skatrosh/gdm-arc-theme/blob/master/gnome-shell/gnome-shell-theme.gresource)
 
 <p align="center">
