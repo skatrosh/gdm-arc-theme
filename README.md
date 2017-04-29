@@ -31,3 +31,4 @@ Replace gnome-shell-theme.gresource in /usr/share/gnome-shell/ these file: [gnom
 <p align="center">
   <img alt="GDM Screenshot" src="https://github.com/skatrosh/gdm-arc-theme/blob/master/screenshots/screenshot-09.png?raw=true" alt="alt text" width="800" height="452">
 </p>
+Enjoy ;)
